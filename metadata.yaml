@@ -1,0 +1,27 @@
+_repo: Les-hommes-de-la-guerre-d-Orient-11--Le-prince-du-Montenegro_12752
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Texier, Edmond
+    alias: Texier, Edmond Auguste
+    birthdate: 1816
+    deathdate: 1887
+    gutenberg_agent_id: '4558'
+    url: http://www.gutenberg.org/2009/agents/4558
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12752'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danilo I Petrovic Njegos, Prince of Montenegro, 1826-1860'
+- !lcc 'DR'
+- !lcsh 'Montenegro -- History -- Danilo I, 1851-1860'
+- GITenberg
+title: 'Les hommes de la guerre d''Orient 11: Le prince du Montenegro'
+url: http://www.gutenberg.org/ebooks/12752
